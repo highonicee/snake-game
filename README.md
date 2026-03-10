@@ -12,11 +12,13 @@ A simple snake game built using Python turtle graphics.
 - Snake body growth
 - Collision detection
 
+## Screenshot
+
+![Snake Game Screenshot](screenshot.png)
+
 ## Run
 
 ```bash
 python snake-game.py
 
-## Gameplay
 
-![Snake Game Screenshot](screenshot.png)
